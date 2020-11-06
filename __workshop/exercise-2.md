@@ -1,4 +1,4 @@
-# Exercise 2: Using React Context
+<!-- # Exercise 2: Using React Context -->
 
 As our app is getting a little bigger now, we're starting to feel the pain that comes along with lifting state up and "prop drilling".
 

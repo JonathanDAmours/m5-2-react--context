@@ -12,9 +12,9 @@ This exercise is left to be a little vague, but the hope is that it's a bit of a
 
 Some notes/instructions:
 
-- For lifting state up, you'll want to pull all the state up into `App`, and then pass it down via props.
+<!-- - For lifting state up, you'll want to pull all the state up into `App`, and then pass it down via props.
 - The list of `items` can be pulled into a `data.js` file, and imported in both `App` and `Game`.
-- For persisting across closing and reopening the tab, you can use the localStorage API. Because interacting with localStorage is a side-effect, it can be done within the `useEffect` hook.
+- For persisting across closing and reopening the tab, you can use the localStorage API. Because interacting with localStorage is a side-effect, it can be done within the `useEffect` hook. -->
 
 The solution you'll come up with will likely be tied very specifically to the problem at hand (storing the number of cookies). It would be neat to take some time and extract a _custom hook_, one that could be used in other situations when data needs to be persisted in localStorage.
 

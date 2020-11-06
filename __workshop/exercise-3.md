@@ -1,4 +1,4 @@
-Next, we need to use this context in our app.
+<!-- Next, we need to use this context in our app. -->
 
 We'll see how to consume it to power our interval that grants the user cookies every second. You probably have something like this in your `App.js`:
 
